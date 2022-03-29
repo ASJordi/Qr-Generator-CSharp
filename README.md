@@ -19,23 +19,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ASJordi/Barcode-Generator-CSharp">
+  <a href="https://github.com/ASJordi/Qr-Generator-CSharp">
     <img src="icon.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">SistemaG</h3>
+<h3 align="center">QR Generator in CSharp</h3>
 
   <p align="center">
-    Barcode Generator in CSharp
+    QR Generator in CSharp
     <br />
-    <a href="https://github.com/ASJordi/Barcode-Generator-CSharp"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ASJordi/Qr-Generator-CSharp"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ASJordi/Barcode-Generator-CSharp">View Demo</a>
+    <a href="https://github.com/ASJordi/Qr-Generator-CSharp">View Demo</a>
     ·
-    <a href="https://github.com/ASJordi/Barcode-Generator-CSharp/issues">Report Bug</a>
+    <a href="https://github.com/ASJordi/Qr-Generator-CSharp/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ASJordi/Barcode-Generator-CSharp/issues">Request Feature</a>
+    <a href="https://github.com/ASJordi/Qr-Generator-CSharp/issues">Request Feature</a>
   </p>
 </div>
 
@@ -65,9 +65,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/ASJordi/Barcode-Generator-CSharp)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/ASJordi/Qr-Generator-CSharp)
 
-Barcode Generator in CSharp 
+QR Generator in CSharp 
 
 <p align="right">(<a href="#top">Back to top</a>)</p>
 
@@ -75,7 +75,7 @@ Barcode Generator in CSharp
 
 * .NET Framework
 * C#
-* [BarcodeLib](https://github.com/barnhill/barcodelib)
+* [QrCode.NET](http://qrcodenet.codeplex.com/)
 <p align="right">(<a href="#top">Back to top</a>)</p>
 
 <!-- GETTING STARTED -->
@@ -98,7 +98,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/ASJordi/Barcode-Generator-CSharp.git
+   git clone https://github.com/ASJordi/Qr-Generator-CSharp.git
    ```
 2. Open solution in  Visual Studio, build and execute. 
 
@@ -134,23 +134,23 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Jordi Ayala - [@ASJordi](https://twitter.com/ASJordi) - jord7as@gmail.com
 
-Project Link: [https://github.com/ASJordi/Barcode-Generator-CSharp](https://github.com/ASJordi/Barcode-Generator-CSharp)
+Project Link: [https://github.com/ASJordi/Qr-Generator-CSharp](https://github.com/ASJordi/Qr-Generator-CSharp)
 
 <p align="right">(<a href="#top">Back to top</a>)</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/ASJordi/Barcode-Generator-CSharp.svg?style=for-the-badge
-[contributors-url]: https://github.com/ASJordi/Barcode-Generator-CSharp/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ASJordi/Barcode-Generator-CSharp.svg?style=for-the-badge
-[forks-url]: https://github.com/ASJordi/Barcode-Generator-CSharp/network/members
-[stars-shield]: https://img.shields.io/github/stars/ASJordi/Barcode-Generator-CSharp.svg?style=for-the-badge
-[stars-url]: https://github.com/ASJordi/Barcode-Generator-CSharp/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ASJordi/Barcode-Generator-CSharp.svg?style=for-the-badge
-[issues-url]: https://github.com/ASJordi/Barcode-Generator-CSharp/issues
-[license-shield]: https://img.shields.io/github/license/ASJordi/Barcode-Generator-CSharp.svg?style=for-the-badge
-[license-url]: https://github.com/ASJordi/Barcode-Generator-CSharp/blob/main/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/ASJordi/Qr-Generator-CSharp.svg?style=for-the-badge
+[contributors-url]: https://github.com/ASJordi/Qr-Generator-CSharp/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ASJordi/Qr-Generator-CSharp.svg?style=for-the-badge
+[forks-url]: https://github.com/ASJordi/Qr-Generator-CSharp/network/members
+[stars-shield]: https://img.shields.io/github/stars/ASJordi/Qr-Generator-CSharp.svg?style=for-the-badge
+[stars-url]: https://github.com/ASJordi/Qr-Generator-CSharp/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ASJordi/Qr-Generator-CSharp.svg?style=for-the-badge
+[issues-url]: https://github.com/ASJordi/Qr-Generator-CSharp/issues
+[license-shield]: https://img.shields.io/github/license/ASJordi/Qr-Generator-CSharp.svg?style=for-the-badge
+[license-url]: https://github.com/ASJordi/Qr-Generator-CSharp/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/asjordi/
 [product-screenshot]: screenshot.png
